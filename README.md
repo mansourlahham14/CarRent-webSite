@@ -35,8 +35,7 @@ Prima di iniziare, assicurati di avere installato:
 
 1. **Clona il repository**
 ```bash
-git clone https://github.com/tuo-username/autorent-website.git
-cd autorent-website
+git clone https://github.com/mansourlahham14/CarRent-webSite
 ```
 
 2. **Installa le dipendenze**
