@@ -2,7 +2,7 @@
 
 Un sito web moderno e responsive per il noleggio di auto, costruito con React.js, Vite e TailwindCSS.
 
-![AutoRent Preview](https://img.shields.io/badge/React-18.x-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8) ![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## ✨ Caratteristiche
 
@@ -195,8 +195,8 @@ Questo progetto è rilasciato sotto licenza MIT. Vedi il file `LICENSE` per magg
 ## 👨‍💻 Autore
 
 **Il Tuo Nome**
-- GitHub: [@tuo-username](https://github.com/tuo-username)
-- LinkedIn: [Il Tuo Nome](https://linkedin.com/in/tuo-profilo)
+- GitHub: [@tuo-username]([https://github.com/tuo-username](https://github.com/mansourlahham14))
+- Vercel Link: https://car-rent-web-site.vercel.app/
 
 ## 🙏 Ringraziamenti
 
